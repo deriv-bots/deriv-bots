@@ -30,7 +30,7 @@ I design, deploy, and refine trading bots engineered for high-frequency precisio
 
 ## 📡 Contact & Community
 
-- 📬 **Email (Business & Collabs):** `derivkingnato@gmail.com`  
+- 📬 **Email (Business & Collabs):** derivkingnato@gmail.com  
 - 💬 **Telegram Group:** [𝐃𝐄𝐑𝐈𝐕 𝐁𝐎𝐓𝐒 𝐓𝐑𝐀𝐃𝐈𝐍𝐆](https://t.me/Deriv_Bots_Trading)  
 - 📱 **WhatsApp Group:** [𝐃𝐄𝐑𝐈𝐕 𝐁𝐎𝐓𝐒 𝐓𝐑𝐀𝐃𝐈𝐍𝐆](https://chat.whatsapp.com/Fgh6GRJbmWV3MdCnnsFr38)  
 
@@ -40,6 +40,6 @@ I design, deploy, and refine trading bots engineered for high-frequency precisio
 
 - 🧠 **𝖳𝖤𝖫𝖤𝖦𝖱𝖠𝖬:** [@Deriv_Bot_Pro](https://t.me/Deriv_Bot_Pro)  
 - 📱 **𝖶𝖧𝖠𝖳𝖲𝖠𝖯𝖯:** [wa.me/254747204803](https://wa.me/254747204803)  
-- 📬 **𝖤𝖬𝖠𝖨𝖫:** `derivkingnato@gmail.com`  
+- 📬 **𝖤𝖬𝖠𝖨𝖫:** derivkingnato@gmail.com
 
 > “Bots don’t sleep. Neither does strategy.”
