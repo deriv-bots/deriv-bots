@@ -12,7 +12,7 @@ I design, deploy, and refine trading bots engineered for high-frequency precisio
 - 📊 **Technical analysis engines** that decode market structure and volatility  
 - 🧠 **Smart entry/exit logic** based on dynamic indicators and trend filters  
 - 🔁 **Backtesting frameworks** for strategy validation and performance tuning  
-- 🧲 **Telegram-integrated alert systems** for live trade signals and bot control  
+- 🧲 **Integrated alert systems** for live trade signals and bot control  
 
 ## 🧪 Optimization Philosophy
 
