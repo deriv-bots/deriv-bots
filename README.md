@@ -6,7 +6,7 @@ Welcome to the command center of **DERIV BOT TRADING** where algorithmic intelli
 
 I design, deploy, and refine trading bots engineered for high-frequency precision, adaptive strategy execution, and real time risk management. Every line of code is optimized for speed, scalability, and edge.
 
- **START TRADING TODAY:** [CREATE DERIV ACCOUNT](https://t.me/Deriv_Bots_Trading)  
+ **START TRADING TODAY:** [CREATE A DERIV ACCOUNT HERE](https://track.deriv.com/_tyV1h4aN9QKFfUyb_9NCN2Nd7ZgqdRLk/1/)  
 
 ## 🧠 What I Build
 
