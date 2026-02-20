@@ -34,7 +34,7 @@ I design, deploy, and refine trading bots engineered for high-frequency precisio
 
 - 📬 **Email (Business & Collabs):** derivkingnato@gmail.com  
 - 💬 **Telegram Group:** [𝐃𝐄𝐑𝐈𝐕 𝐁𝐎𝐓𝐒](https://t.me/Deriv_Pro_Bots)  
-- 📱 **WhatsApp Group:** [𝐃𝐄𝐑𝐈𝐕 𝐁𝐎𝐓𝐒](https://chat.whatsapp.com/Fgh6GRJbmWV3MdCnnsFr38)  
+- 📱 **WhatsApp Group:** [𝐃𝐄𝐑𝐈𝐕 𝐁𝐎𝐓𝐒](https://chat.whatsapp.com/GiuNH6QDVFrD7mfl8NQ7yk)  
 
 ---
 
