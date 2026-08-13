@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://track.deriv.com/_tyV1h4aN9QKFfUyb_9NCN2Nd7ZgqdRLk/1/"><img src="https://img.shields.io/badge/START_TRADING_TODAY-CREATE_A_FREE_DERIV_ACCOUNT-ff444f?style=for-the-badge&logo=deriv&logoColor=white" alt="Create Deriv Account"></a>
+</p>
 
 
 # 🤖 DERIV BOT TRADING | Precision in Motion
