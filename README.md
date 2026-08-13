@@ -42,15 +42,15 @@ I design, deploy, and refine trading bots engineered for high-frequency precisio
 ## 📡 Contact & Community
 
 - 📬 **Email (Business & Collabs):** monarchtrades@outlook.com 
-- 💬 **Telegram Group:** [𝐃𝐄𝐑𝐈𝐕 𝐁𝐎𝐓𝐒](https://t.me/Deriv_Pro_Bots)  
-- 📱 **WhatsApp Group:** [𝐃𝐄𝐑𝐈𝐕 𝐁𝐎𝐓𝐒](https://chat.whatsapp.com/GiuNH6QDVFrD7mfl8NQ7yk)  
+- 💬 **Telegram Group:** [𝑪𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆](https://t.me/Deriv_Pro_Bots)  
+- 📱 **WhatsApp Group:** [𝑪𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆](https://chat.whatsapp.com/GiuNH6QDVFrD7mfl8NQ7yk)  
 
 ---
 
 ## ☏︎ 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐔𝐒 ☏︎
 
-- 🧠 **𝖳𝖤𝖫𝖤𝖦𝖱𝖠𝖬:** [@Deriv_Pro](https://t.me/Deriv_Pro)  
-- 📱 **𝖶𝖧𝖠𝖳𝖲𝖠𝖯𝖯:** [wa.me/254747204803](https://wa.me/254747204803)  
+- 🧠 **𝖳𝖤𝖫𝖤𝖦𝖱𝖠𝖬:** [Deriv Pro](https://t.me/Deriv_Pro)  
+- 📱 **𝖶𝖧𝖠𝖳𝖲𝖠𝖯𝖯:** [+254747204803](https://wa.me/254747204803)  
 - 📬 **𝖤𝖬𝖠𝖨𝖫:** monarchtrades@outlook.com
 
 > “Bots don’t sleep. Neither does strategy.”
