@@ -2,6 +2,13 @@
 
 # 🤖 DERIV BOT TRADING | Precision in Motion
 
+<p align="center">
+  <a href="mailto:monarchtrades@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email"></a>
+  <a href="https://wa.me/254747204803"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://t.me/Deriv_Pro"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
+
+
 Welcome to the command center of **DERIV BOT TRADING** where algorithmic intelligence meets market domination.
 
 I design, deploy, and refine trading bots engineered for high-frequency precision, adaptive strategy execution, and real time risk management. Every line of code is optimized for speed, scalability, and edge.
@@ -45,7 +52,7 @@ I design, deploy, and refine trading bots engineered for high-frequency precisio
 - 📬 **𝖤𝖬𝖠𝖨𝖫:** monarchtrades@outlook.com
 
 > “Bots don’t sleep. Neither does strategy.”
->
+
 <p align="center">
   <a href="mailto:monarchtrades@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email"></a>
   <a href="https://wa.me/254747204803"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
