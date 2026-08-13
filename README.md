@@ -6,7 +6,7 @@ Welcome to the command center of **DERIV BOT TRADING** where algorithmic intelli
 
 I design, deploy, and refine trading bots engineered for high-frequency precision, adaptive strategy execution, and real time risk management. Every line of code is optimized for speed, scalability, and edge.
 
- **START TRADING WITH BOTS TODAY:** [CREATE A DERIV ACCOUNT HERE](https://track.deriv.com/_tyV1h4aN9QKFfUyb_9NCN2Nd7ZgqdRLk/1/)  
+ **START TRADING WITH BOTS TODAY:** [𝐂𝐑𝐄𝐀𝐓𝐄 𝐀 𝐃𝐄𝐑𝐈𝐕 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐇𝐄𝐑𝐄](https://track.deriv.com/_tyV1h4aN9QKFfUyb_9NCN2Nd7ZgqdRLk/1/)  
 
 ## 🧠 What I Build
 
@@ -32,7 +32,7 @@ I design, deploy, and refine trading bots engineered for high-frequency precisio
 
 ## 📡 Contact & Community
 
-- 📬 **Email (Business & Collabs):** derivkingnato@gmail.com  
+- 📬 **Email (Business & Collabs):** monarchtrades@outlook.com 
 - 💬 **Telegram Group:** [𝐃𝐄𝐑𝐈𝐕 𝐁𝐎𝐓𝐒](https://t.me/Deriv_Pro_Bots)  
 - 📱 **WhatsApp Group:** [𝐃𝐄𝐑𝐈𝐕 𝐁𝐎𝐓𝐒](https://chat.whatsapp.com/GiuNH6QDVFrD7mfl8NQ7yk)  
 
@@ -42,6 +42,6 @@ I design, deploy, and refine trading bots engineered for high-frequency precisio
 
 - 🧠 **𝖳𝖤𝖫𝖤𝖦𝖱𝖠𝖬:** [@Deriv_Pro](https://t.me/Deriv_Pro)  
 - 📱 **𝖶𝖧𝖠𝖳𝖲𝖠𝖯𝖯:** [wa.me/254747204803](https://wa.me/254747204803)  
-- 📬 **𝖤𝖬𝖠𝖨𝖫:** derivkingnato@gmail.com
+- 📬 **𝖤𝖬𝖠𝖨𝖫:** monarchtrades@outlook.com
 
 > “Bots don’t sleep. Neither does strategy.”
