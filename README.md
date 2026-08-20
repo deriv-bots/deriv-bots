@@ -52,7 +52,7 @@ I design, deploy, and refine trading bots engineered for high-frequency precisio
 - 🧠 **𝖳𝖤𝖫𝖤𝖦𝖱𝖠𝖬:** [Deriv Pro](https://t.me/Deriv_Pro)  
 - 📱 **𝖶𝖧𝖠𝖳𝖲𝖠𝖯𝖯:** [+254747204803](https://wa.me/254747204803)  
 - 📬 **𝖤𝖬𝖠𝖨𝖫:** monarchtrades@outlook.com
-
+- 🔗 **ALL LINKS:** [CLICK HERE](https://linktr.ee/derivpro)
 > “Bots don’t sleep. Neither does strategy.”
 
 <p align="center">
