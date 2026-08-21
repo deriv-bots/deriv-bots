@@ -43,7 +43,7 @@ I design, deploy, and refine trading bots engineered for high-frequency precisio
 
 - 📬 **Email (Business & Collabs):** monarchtrades@outlook.com 
 - 💬 **Telegram Group:** [𝑪𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆](https://t.me/Deriv_Pro_Bots)  
-- 📱 **WhatsApp Group:** [𝑪𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆](https://chat.whatsapp.com/GiuNH6QDVFrD7mfl8NQ7yk)  
+- 📱 **WhatsApp Group:** [𝑪𝒍𝒊𝒄𝒌 𝒉𝒆𝒓𝒆](https://chat.whatsapp.com/IRaeFQiF7OFJwd4i2HBG3B)  
 
 ---
 
