@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://track.deriv.com/_tyV1h4aN9QKFfUyb_9NCN2Nd7ZgqdRLk/1/"><img src="https://img.shields.io/badge/CLICK_HERE_TO_AUTOMATE_YOUR_TRADING_TODAY_WITH_DBOTS-CREATE_A_FREE_DERIV_ACCOUNT_NOW-ff444f?style=for-the-badge&logo=deriv&logoColor=white" alt="Create Deriv Account"></a>
+  <a href="https://t.deriv.link?t=ABTHJJZETLX3"><img src="https://img.shields.io/badge/CLICK_HERE_TO_AUTOMATE_YOUR_TRADING_TODAY_WITH_DBOTS-CREATE_A_FREE_DERIV_ACCOUNT_NOW-ff444f?style=for-the-badge&logo=deriv&logoColor=white" alt="Create Deriv Account"></a>
 </p>
 
 
@@ -15,7 +15,7 @@ Welcome to the command center of **DERIV BOT TRADING** where algorithmic intelli
 
 I design, deploy, and refine trading bots engineered for high-frequency precision, adaptive strategy execution, and real time risk management. Every line of code is optimized for speed, scalability, and edge.
 
- **START TRADING WITH BOTS TODAY:** [𝐂𝐑𝐄𝐀𝐓𝐄 𝐀 𝐃𝐄𝐑𝐈𝐕 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐇𝐄𝐑𝐄](https://track.deriv.com/_tyV1h4aN9QKFfUyb_9NCN2Nd7ZgqdRLk/1/)  
+ **START TRADING WITH BOTS TODAY:** [𝐂𝐑𝐄𝐀𝐓𝐄 𝐀 𝐃𝐄𝐑𝐈𝐕 𝐀𝐂𝐂𝐎𝐔𝐍𝐓 𝐇𝐄𝐑𝐄](https://t.deriv.link?t=ABTHJJZETLX3)  
 
 ## 🧠 What I Build
 
